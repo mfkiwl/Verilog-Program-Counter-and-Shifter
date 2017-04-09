@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "D:/Dropbox/EE_/8th semester/EE 540 ADVANCED DIGITAL DESIGN/hw3/Alp_homework3/test_PC_isim_beh.exe" -prj "D:/Dropbox/EE_/8th semester/EE 540 ADVANCED DIGITAL DESIGN/hw3/Alp_homework3/test_PC_beh.prj" "work.test_PC" "work.glbl" 
